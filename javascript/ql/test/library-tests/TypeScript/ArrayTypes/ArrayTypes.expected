@@ -1,0 +1,5 @@
+| [number, string] | `string \| number` |
+| number[] | `number` |
+| readonly T[] | `T` |
+| readonly number[] | `number` |
+| readonly number[][] | `number[]` |
