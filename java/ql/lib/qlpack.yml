@@ -1,0 +1,8 @@
+name: codeql/java-all
+version: 0.0.3
+groups: java
+library: true
+dbscheme: config/semmlecode.dbscheme
+extractor: java
+dependencies:
+    codeql/java-upgrades: 0.0.3
